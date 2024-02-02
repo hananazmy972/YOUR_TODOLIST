@@ -27,8 +27,6 @@ The index HTML file refers to the default page or home page of a website, and it
  4-images file:-
 It includes the png files of images of the symbols I use in the web.
 
-5-README.md :-
-It is include the description of the project.
 
 Here are some additional tips for using a to-do list tool effectively:
 
